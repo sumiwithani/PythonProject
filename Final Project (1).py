@@ -144,7 +144,7 @@ if __name__ == '__main__':
         print("4 = A Cinnamon Hard Candy")
         print("5 = A Pocket Knife")
         print("6 = Take Two Instead")
-        toolchoice = input("What do you take? ")  # Sevi - Victory Point time :)
+        toolchoice = input("What do you take? ")  
 
         if toolchoice == '1':
             print("You obtained the hatchet.")
